@@ -1,7 +1,7 @@
 
 # Workday Scheduler
 
-Description
+# Description
 
 A web appliction which works in a list form. 
 The user can write down tasks or meetings planned for 
@@ -11,7 +11,7 @@ As each action is performed the color of the box changes
 according to time frame being past, present, 
 or future reference.
 
-Table of Contents:
+# Table of Contents:
 
 -Installation
 
@@ -21,32 +21,32 @@ Table of Contents:
 
 Tests
 
-Installation:
+# Installation:
 
 Npm i nodemon jquery, bootstrap
 
-Usage:
+# Usage:
 
 Nothing is needed to launch this program, it just works once the page is loaded.
 No script needed.
 
-Contributing:
+# Contributing:
 
 undefined
 
-Tests:
+# Tests:
 
 Npm start or npm run watch
 
-Questions:
+# Questions:
 
 Jeanette Conklin
 
-Github:
+# Github:
 
 https://github.com/Conklinj09/Work-Day-Scheduler
 
-Email:
+# Email:
 
 Conklinj09@gmail.com 
 
