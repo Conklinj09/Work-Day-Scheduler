@@ -46,11 +46,11 @@ Jeanette Conklin
 
 https://github.com/Conklinj09/Work-Day-Scheduler
 
+https://conklinj09.github.io/Work-Day-Scheduler/
+
 # Email:
 
 Conklinj09@gmail.com 
-
-
 
 
 ## Badges
